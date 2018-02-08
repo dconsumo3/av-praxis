@@ -1,0 +1,11 @@
+{
+  "name": "Epiprot AV",
+  "description": "Ayuda visual Epiprot",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/logo.png"
+  },
+  "orientation": "landscape"
+  "default_locale": "es",
+  "type": "privileged"
+}
